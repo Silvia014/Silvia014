@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Silvia014
-- 👀 I’m interested in revenue management and all the tools related to it
-- 🌱 I’m currently learning mapping different extranets, dynamic tour operators, and PMS with channel managers among other things.
-- 💞️ I’m looking to collaborate on new tools
-- 📫 How to reach me: by email roldansilvi@gmail.com
-- 😄 Pronouns: -
-- ⚡ Fun fact: this is a way to cooperate and get to know experts in the field
+Hi, I’m Silvia.
+
+I’m interested in revenue management, data analysis, and programming.
+I’m currently learning how to code, among other things.
+I’m looking forward to working on new tools and projects.
+
+Feel free to reach out to me by email at [roldansilvi@gmail.com](mailto:roldansilvi@gmail.com).
+
 
 <!---
 Silvia014/Silvia014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
